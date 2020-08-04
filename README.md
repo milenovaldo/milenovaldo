@@ -3,7 +3,7 @@ I'm a 20 year old BINUS International Computer Science student
 <br>
 You can check out my socials down here 
 <br>
-👇 <br>
+👇 <br><br>
 ![instagram](https://img.shields.io/static/v1?logo=instagram&label=instagram&message=milenovaldo&color=E4405F&link=https://instagram.com/milenovaldo) ![discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=itsr1p%236969&color=7289DA) 
 ### Some stats
 <a href="https://github.com/milenovaldo">
