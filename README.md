@@ -1,4 +1,4 @@
-## My name is [Mileno](https://milenovaldo.me)👋
+## Hey my name is [Mileno](https://milenovaldo.me)👋
 I'm a 20 year old BINUS International Computer Science student
 <br>
 You can check out my socials down here 
