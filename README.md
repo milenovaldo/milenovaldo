@@ -17,3 +17,6 @@ You can check out my socials down here
 <a href="https://github.com/milenovaldo/java-password-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=java-password-manager&theme=default" />
 </a> 
+<a href="https://github.com/milenovaldo/number-converter-web">
+  <img align="centet" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=number-converter-web" />
+</a>
