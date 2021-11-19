@@ -18,5 +18,8 @@ You can check out my socials down here
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=java-password-manager&theme=default" />
 </a> 
 <a href="https://github.com/milenovaldo/number-converter-web">
-  <img align="centet" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=number-converter-web" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=number-converter-web" />
+</a>
+<a href="https://github.com/milenovaldo/node-weather-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milenovaldo&repo=node-weather-app" />
 </a>
